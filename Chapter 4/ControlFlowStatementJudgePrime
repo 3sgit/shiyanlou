@@ -1,3 +1,7 @@
+/* shiyanlou exercise : chapter 4
+// Checking if a number is a prime.
+/* 
+
 public class ControlFlowStatementJudgePrime {
 	
 	public static void main (String[] args){ 
