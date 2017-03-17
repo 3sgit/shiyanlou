@@ -3,7 +3,7 @@ public class ControlFlowStatementForLoopSumOfOdd {
     public static void main (String [] args) {
         
         int sum = 0;
-        for (i=1; i<=1000; i++) {
+        for (int i=1; i<=1000; i++) {
             if (0==i%2) {
                 sum+=i;
             }
