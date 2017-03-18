@@ -1,13 +1,13 @@
 /* Chapter 5 Arrays
-// Exmaple 2
+// Exmaple 2.3
 // Two-dimensonal arrays
 */
 
 public class chatper5ArraysExample {
-  public static void main(String[] args) {       
+  public static void main (String[] args) {       
     String[][] name = { {"ZhaoYi", "QianEr", "SunSan"}, {"LiSi", "ZhouWu", "WuLiu"} };       
-      for(int=i) {
-      
+      for (int i; ) {
+        //... save point
       }       
      }
   }
