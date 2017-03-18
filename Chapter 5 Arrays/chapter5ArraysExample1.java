@@ -1,6 +1,6 @@
 /* Chapter 5 Arrays
 // Example 2.1
-// a2 reference to a1
+// a2 refer to a1
 */
 
 public class chapter5ArraysExample1 {
