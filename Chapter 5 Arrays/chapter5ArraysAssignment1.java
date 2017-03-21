@@ -1,6 +1,6 @@
-# chapter 5 Arrays assignment
-# To print from 1 to 100 by using Arrays
-
+/* chapter 5 Arrays assignment
+// To print from 1 to 100 by using Arrays
+*/
 public class chapterArraysAssignment1 {
   public static void main (String[] args) { 
   
