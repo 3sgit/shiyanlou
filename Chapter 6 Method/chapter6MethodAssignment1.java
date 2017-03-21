@@ -1,7 +1,7 @@
 // Chapter 6 method assignment
 // 
 
-public class chapter6MethodAssignment {
+public class chapter6MethodAssignment1 {
   public static void main (String[] args) {
     int n = 5;
     int count = 0;
