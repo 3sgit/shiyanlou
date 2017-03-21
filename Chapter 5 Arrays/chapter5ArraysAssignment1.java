@@ -2,9 +2,11 @@
 # To print from 1 to 100 by using Arrays
 
 public class chapterArraysAssignment1 {
-  public static void main (String[] args) {
+  public static void main (String[] args) { 
+  
     int num[][] = new int[10][10];
     int count = 0;
+    
       for (int i=0; i<num.length; i++) {
         for (int j=0; j<num[i].length; j++) {
           ++count;
