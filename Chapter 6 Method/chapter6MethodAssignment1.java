@@ -1,7 +1,7 @@
 // Chapter 6 method assignment
 public class chapter6MethodAssignment1 {
   public static void main (String[] args) {
-    
+
     int n = 5;
     int count = 0;
     for (int i=0; i<=n; i++) { 
@@ -11,9 +11,9 @@ public class chapter6MethodAssignment1 {
       }
      System.out.println();
     }
+    
   }
-  
-  public int (n) {
+
      
   }
 }
