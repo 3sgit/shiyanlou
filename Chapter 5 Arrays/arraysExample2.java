@@ -3,7 +3,7 @@
 // Two-dimensonal arrays
 */
 
-public class chatper5ArraysExample {
+public class arraysExample2 {
   public static void main (String[] args) {       
     String[][] name = { {"ZhaoYi", "QianEr", "SunSan"}, {"LiSi", "ZhouWu", "WuLiu"} };       
       for (int i = 0; i<name.length; i++) {
