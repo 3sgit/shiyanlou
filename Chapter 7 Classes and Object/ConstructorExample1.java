@@ -8,7 +8,15 @@ public class ConstructorExample1 {
   int sex;
   String name;
   
-  ConstructorExample (int age, int sex, String name) {
+  public static void main (String[] args) {
+    ConstructorExample1 test = new ConstructorExample1(10, 0, "Tim");
+  }
+  
+  ConstructorExample1 () {
+    //nil 
+  }
+  
+  ConstructorExample1 (int age, int sex, String name) {
     this.age = age;
     this.sex = sex;
     this.name = name;
