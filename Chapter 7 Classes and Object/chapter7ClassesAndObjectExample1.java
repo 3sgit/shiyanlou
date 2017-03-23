@@ -19,7 +19,7 @@ public class People {
     System.out.println("my height is " + this.height + " ." + "\n"
                        + "i'm " + this.age + " .");
     
-    if () {
+    if (this.sex==0) {
       System.out.println("i am a man."); 
     }
     else {
