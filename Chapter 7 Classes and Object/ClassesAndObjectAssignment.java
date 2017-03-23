@@ -17,14 +17,14 @@ public class Computer {
   }
 	  
   
-	  Computer () {
-	  }
-	
-	  Computer (String mt, String sn, int billDate) {
-	    this.machineType = mt;
-	    this.serialNumber = sn;
-	    this.billDate = billDate;
-	  }
+	Computer () {
+	}
+
+	Computer (String mt, String sn, int billDate) {
+	this.machineType = mt;
+	this.serialNumber = sn;
+	this.billDate = billDate;
+	}
 	  
     void printHardwareInfo () {
 	    System.out.printf ("=====hardware basic info.=====\nMachineType: %s\nSerialNumber: %s\nbillDate: %s\n",machineType, serialNumber, billDate);
