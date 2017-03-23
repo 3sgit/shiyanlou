@@ -1,5 +1,5 @@
 // Chapter 6 method assignment
-public class methodAssignment1 {
+public class MethodAssignment1 {
   public static void main (String[] args) {
     
     apple a1 = new apple();
