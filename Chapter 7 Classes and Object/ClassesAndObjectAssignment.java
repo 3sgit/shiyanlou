@@ -21,9 +21,9 @@ public class Computer {
 	}
 
 	Computer (String mt, String sn, int billDate) {
-	this.machineType = mt;
-	this.serialNumber = sn;
-	this.billDate = billDate;
+		this.machineType = mt;
+		this.serialNumber = sn;
+		this.billDate = billDate;
 	}
 	  
     void printHardwareInfo () {
