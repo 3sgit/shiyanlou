@@ -1,7 +1,7 @@
 /* chapter 5 Arrays assignment
 // To print from 1 to 100 by using Arrays
 */
-public class arraysAssignment1 {
+public class ArraysAssignment1 {
   public static void main (String[] args) { 
   
     int num[][] = new int[10][10];
