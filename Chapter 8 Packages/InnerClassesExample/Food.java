@@ -1,7 +1,7 @@
 /*  chapter 8 packages
 //  inner class
 */
-package InnerClassesExample
+package InnerClassesExample;
 
 //Outer class
 public class Food { 
