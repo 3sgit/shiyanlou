@@ -2,7 +2,7 @@
 // title 2.2
 */
 
-public class classExample1People {
+public class ClassesExample1People {
   double height;
   int age;
   int sex;
