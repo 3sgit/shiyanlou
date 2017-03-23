@@ -1,5 +1,6 @@
-// chapter 8 packages
-// inner class
+/*  chapter 8 packages
+//  inner class
+*/
 
 //Outer class
 public class Food { 
