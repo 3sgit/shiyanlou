@@ -3,7 +3,7 @@
 // a2 refer to a1
 */
 
-public class arraysExample1 {
+public class ArraysExample1 {
     
   public static void main (String[] args) {
 
