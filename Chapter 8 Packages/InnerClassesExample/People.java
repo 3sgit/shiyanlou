@@ -5,11 +5,13 @@
 package InnerClassesExample;
 
 public class People {
+  private String name = "Nill";
   static String ID = "005235";
   
     class Student {
       String ID = "128923";
       
+      //
       void stuInfo() {
         System.out.printf("father class.ID = ",new People().ID );
       }
