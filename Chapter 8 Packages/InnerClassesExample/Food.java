@@ -1,4 +1,4 @@
-/*  chapter 8 packages
+/*  chapter 8 packages 2.5 exmaple
 //  inner class
 */
 package InnerClassesExample;
