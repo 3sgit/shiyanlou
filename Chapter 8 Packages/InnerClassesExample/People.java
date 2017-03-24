@@ -5,16 +5,18 @@
 package InnerClassesExample;
 
 public class People {[
+  static String ID = "005235";
   
-  class Student {
-  }
-  
-  static class Teacher {
+    class Student {
+      String ID = "128923";
+    }
 
-  }
-  
-  public static void main (String[] args) {
-    
-  }
+    static class Teacher {
+
+    }
+
+    public static void main (String[] args) {
+
+    }
 }
 
