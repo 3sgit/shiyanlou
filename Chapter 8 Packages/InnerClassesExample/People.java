@@ -13,7 +13,7 @@ public class People {
       
       //
       void stuInfo() {
-        System.out.printf("father class.ID = ",new People().ID );
+        System.out.printf("father class.name = %s\nfather class.ID = %s",People.name, People.ID );
       }
     }
 
