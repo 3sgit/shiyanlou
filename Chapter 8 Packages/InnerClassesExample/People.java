@@ -4,19 +4,26 @@
 */
 package InnerClassesExample;
 
-public class People {[
+public class People {
   static String ID = "005235";
   
     class Student {
       String ID = "128923";
+      
+      void stuInfo() {
+        System.out.printf("father class.ID = ",new People().ID );
+      }
     }
 
     static class Teacher {
 
     }
 
-    public static void main (String[] args) {
-
-    }
 }
 
+class test {
+  public static void main (String[] args) {
+    Student st1 = new Student();
+    st1.stuInfo();
+  }
+}
