@@ -13,7 +13,7 @@ public class Food {
       String name = "Inner";
 
     void stuInfo () {
-      \\ access out class property
+      // access outer class property 
       System.out.println("Access variable \"name\" in outer class: " + id);
       System.out.println("Access variable \"name\" in inner class: " + this.name);
     }
@@ -29,6 +29,7 @@ public class Food {
     */
     Apple inner = outer.new Apple();
     
+    /* properties of outer class can be accessed by inner class.*/
     inner.stuInfo();
   }
 }
