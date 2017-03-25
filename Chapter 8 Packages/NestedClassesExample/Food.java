@@ -1,7 +1,6 @@
 /*  chapter 8 packages 2.5.1 example
-//  inner class
+//  nested classes
 */
-
 
 //Outer class
 public class Food { 
