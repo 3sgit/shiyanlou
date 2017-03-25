@@ -6,13 +6,15 @@
 //Outer class
 public class Food { 
    private String name = "Outer";
+   private String id = "232_OU";
   
  //Inner class
     public class Apple {
       String name = "Inner";
 
     void stuInfo () {
-      System.out.println("Access variable \"name\" in outer class: " + new Food().name);
+      \\ access out class property
+      System.out.println("Access variable \"name\" in outer class: " + id);
       System.out.println("Access variable \"name\" in inner class: " + this.name);
     }
    }
