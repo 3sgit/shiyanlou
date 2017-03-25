@@ -1,5 +1,8 @@
 /* chapter 8 packages 2.5.2 example
-// static nested class vs non-static nested class 
+// Nested classes are divided into two categories:
+//    1) static 2) non-static
+// Neested class are declared static are called static nested classes, 
+// Non-static classes are called inner classes.
 // http://stackoverflow.com/questions/1353309/java-static-vs-non-static-inner-class
 */
 package InnerClassesExample;
